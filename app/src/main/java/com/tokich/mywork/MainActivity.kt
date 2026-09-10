@@ -807,3 +807,5 @@ fun DebtsTab(
             }
         )
     }
+}
+}
